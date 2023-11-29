@@ -1,4 +1,10 @@
-*{
-    padding: 0;
-    margin: 0;
+.navbar{
+    display: flex;
+}
+.icon{
+    display: flex;
+    justify-content: flex-start;
+}
+h1{
+    padding-left: 50px;
 }
