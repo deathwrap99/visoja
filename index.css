@@ -1,10 +1,32 @@
-*{
-    padding: 0;
-    margin: 0;
+body{
+    background-color: rgb(0, 132, 255);
 }
 .k{
     display: flex;
-    left: 250px;
+    left: 290px;
     bottom: 420px;
     position: absolute;
+   
 }
+.ben{
+    border-radius: 180px;
+}
+.k{
+    display: flex;
+    justify-content: space-between;
+    gap: 170px;
+}
+.bid{
+    border-radius: 180px;
+    position: absolute;
+    bottom: 50px;
+    left: 490px;
+}
+.bi{
+    border-radius: 160px;
+    position: absolute;
+    bottom: 50px;
+    right: 320px; 
+    top: 130px;
+}
+
