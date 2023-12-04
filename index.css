@@ -1,4 +1,35 @@
 
+body{
+    background-color: rgb(0, 132, 255);
+}
+.k{
+    display: flex;
+    left: 290px;
+    bottom: 420px;
+    position: absolute;
+   
+}
+.ben{
+    border-radius: 180px;
+}
+.k{
+    display: flex;
+    justify-content: space-between;
+    gap: 170px;
+}
+.bid{
+    border-radius: 180px;
+    position: absolute;
+    bottom: 50px;
+    left: 490px;
+}
+.bi{
+    border-radius: 160px;
+    position: absolute;
+    bottom: 50px;
+    right: 320px; 
+    top: 130px;
+}
 #imag1 {
     background-image: url('https://th.bing.com/th?id=OIP.Sr0S5GYsEttUenQQPS80QAHaFW&w=294&h=212&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2');
   }
